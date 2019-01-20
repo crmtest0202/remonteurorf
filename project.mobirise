@@ -28,7 +28,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.3",
     "siteFonts": [],
-    "uniqCompNum": 7,
+    "uniqCompNum": 10,
     "versionPublish": "4.8.3"
   },
   "pages": {
@@ -49,8 +49,8 @@
             "showButtons": false,
             "inverse": false,
             "imageSize": "54",
-            "paddingTop": "3",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -155,8 +155,8 @@
           "_params": {
             "logo": false,
             "showBrand": true,
-            "hideButtons": true,
-            "sticky": true,
+            "hideButtons": false,
+            "sticky": false,
             "collapsed": true,
             "transparent": false,
             "bgColor": "#282828",
@@ -169,7 +169,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\">OVERVIEW</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">FEATURES</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile friendly</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Based on Bootstrap</a><div class=\"dropdown\"><a data-app-btn=\"true\" class=\"dropdown-item dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">Trendy blocks</a><div class=\"dropdown-menu dropdown-submenu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image/content slider</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact forms</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Image gallery</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Mobile menu</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google maps</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Social buttons</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Google fonts</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Video background</a></div></div><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Host anywhere</a></div></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link dropdown-toggle\" data-toggle=\"dropdown-submenu\" href=\"https://mobirise.com/\">HELP</a><div class=\"dropdown-menu\"><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"http://forums.mobirise.com/\">Forum</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Tutorials</a><a data-app-btn=\"true\" class=\"dropdown-item\" href=\"https://mobirise.com/\">Contact us</a></div></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://mobirise.com/\"></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Позвоить</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Whatsapp</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">Telegramm</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">email&nbsp;</a></li>",
           "logo": {
             "image": {
               "active": true,
@@ -199,8 +199,8 @@
             "ShowTexts": true,
             "showButtons": true,
             "columnsColor": "#2e2e2e",
-            "paddingTop": 2,
-            "paddingBottom": 2,
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "columns": 4,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -312,8 +312,8 @@
         },
         {
           "_params": {
-            "paddingTop": "1",
-            "paddingBottom": "1",
+            "paddingTop": "2",
+            "paddingBottom": "2",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -329,13 +329,33 @@
               "stateDetails": ""
             }
           },
-          "text1": "Наш офис находится по адресу:<br>г. Москва, пр. Мира, д. 49, оф. 28<br><br>Контакты:<br>+7 (963) 777-97-35\n<br>+7 (985) 100-14-42<br><br>",
+          "text1": "Наш офис находится по адресу:<br>г. Москва, пр. Мира, д. 49, оф. 28<br><br>Контакты:<br>+7 (963) 777-97-35\n<br>+7 (985) 100-14-42<br><br><br><br>",
           "text2": "",
           "_tags": [
             "Тема"
           ],
           "_name": "contacts2",
           "_anchor": "contacts2-6"
+        },
+        {
+          "_params": {
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#323232",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "Copyright © 2019 - РемонтЕвро.рф - ремонтные работы в Москве и Московской области",
+          "_tags": [
+            "Тема"
+          ],
+          "_name": "footer1",
+          "_anchor": "footer1-8"
         }
       ]
     }
