@@ -55,7 +55,7 @@
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
             "bgColorRadio": true,
-            "bgColor": "#2e2e2e",
+            "bgColor": "#ffffff",
             "bgVideoRadio": false,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -85,7 +85,7 @@
               "size": 0
             }
           },
-          "title": "БЫСТРО!<br>КАЧЕСТВЕННО!&nbsp;<br>НАДЕЖНО!<br>И ПОД КЛЮЧЬ!<br>",
+          "title": "БЫСТРО<br>КАЧЕСТВЕННО<br>НАДЕЖНО<br>ПОД КЛЮЧЬ<br>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>",
           "_tags": [
@@ -97,7 +97,7 @@
             "H3": {
               "font-size": "30px",
               "text-align": "left",
-              "color": "#ffffff"
+              "color": "#000000"
             }
           }
         },
